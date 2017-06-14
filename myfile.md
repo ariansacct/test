@@ -18,15 +18,7 @@ affiliated with a group or cluster of _normal_ data is considered an
 _inlier_ while any point that is not associated with a group or cluster
 is called an _outlier_. 
 
-One of the most effective ways to identify anomalies is to visually
-explore the data, which can often indicate statistical approaches that
-can robustly identify and mitigate the effects of outliers on subsequent
-analyses. Anomaly detection is often closely tied to clustering, and in
-fact the [DBSCAN][db] algorithm indicates _noise_ points that are not
-assigned to any specific cluster. Other approaches will employ
-classification techniques that build a model of the data to identify
-points that are inliers or outliers. In this Notebook, we explore all of
-these techniques. 
+**Edited for test**
 
 -----
 [db]: https://en.wikipedia.org/wiki/DBSCAN
